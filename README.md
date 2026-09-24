@@ -5,5 +5,5 @@
 
 Name: Zenrik Principe
 Course: BSIT
-Section: BSIT-1A
+Section: BSIT-2A
 Subject: ITEC 204 - Data Structures and Algorithms
